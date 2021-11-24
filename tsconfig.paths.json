@@ -1,0 +1,14 @@
+{
+	"compilerOptions": {
+		"baseUrl": "./src/",
+		"paths": {
+			"@Components/*": ["Components/*"],
+			"@Pages/*": ["Pages/*"],
+			"@Assets/*": ["Assets/*"],
+			"@Window/*": ["Redux/Window/*"],
+			"@Appstyle": ["App/App.styled"],
+			"@App/*": ["Redux/App/*"],
+			"@User/*": ["Redux/User/*"]
+		}
+	}
+}
