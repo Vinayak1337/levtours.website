@@ -9,4 +9,4 @@ export const useLogger = (...args: any) => {
 	);
 };
 
-export const baseUrl = 'https://levtours-server.herokuapp.com';
+export const baseUrl = 'https://levtours-server.onrender.com';
